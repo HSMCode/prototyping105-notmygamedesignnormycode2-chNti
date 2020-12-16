@@ -28,6 +28,7 @@ public class DestroyOutOfBounds : MonoBehaviour
         {   
             Destroy(gameObject);
             Debug.Log("Game Over!");
+            GameOver.SetActive(true);
         }
     }
 
