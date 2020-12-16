@@ -1,2 +1,1 @@
-# prototyping105-notmygamedesignnormycode2-chNti
-prototyping105-notmygamedesignnormycode2-chNti created by GitHub Classroom
+prototyping104-notmygamedesignnormycode-Mac242
